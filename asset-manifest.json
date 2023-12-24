@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Host-Stock-Market-Web/static/css/main.76147fff.css",
+    "main.js": "/Host-Stock-Market-Web/static/js/main.ee8eb4c0.js",
+    "static/js/787.fd639adc.chunk.js": "/Host-Stock-Market-Web/static/js/787.fd639adc.chunk.js",
+    "static/media/Stockmarket.png": "/Host-Stock-Market-Web/static/media/Stockmarket.eb8d5c44288b00c6f4ca.png",
+    "index.html": "/Host-Stock-Market-Web/index.html",
+    "main.76147fff.css.map": "/Host-Stock-Market-Web/static/css/main.76147fff.css.map",
+    "main.ee8eb4c0.js.map": "/Host-Stock-Market-Web/static/js/main.ee8eb4c0.js.map",
+    "787.fd639adc.chunk.js.map": "/Host-Stock-Market-Web/static/js/787.fd639adc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76147fff.css",
+    "static/js/main.ee8eb4c0.js"
+  ]
+}
